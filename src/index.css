@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  
+  #hero, #experience, #achievements, #education {
+    page-break-inside: avoid;
+    background: white !important;
+    color: black !important;
+  }
+  
+  * {
+    color: black !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+  }
+  
+  nav, button, .pointer-events-none {
+    display: none !important;
+  }
+}

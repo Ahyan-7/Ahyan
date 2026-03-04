@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Ahyan Gogda",
+    "title": "Performance Marketing Enthusiast",
+    "summary": "I realized people don't ignore marketing - they ignore messages that feel irrelevant. I saw this clearly while building two ventures. CampuX.in focused on solving everyday campus problems for students, while Ve-Care was designed to address a real need we strongly believed in. The idea was strong, but timing mattered - we recognized the market may not be ready today. That insight taught me an important lesson: success is not only about a good idea, but about readiness, behavior, and demand. We plan to revisit Ve-Care in the future when the market evolves. Today, as an 3rd year IMBA student at LJ University, I focus on performance marketing, consumer psychology, and data-driven decision making. I combine creative thinking, analytics, and AI tools to design strategies that attract attention, build trust, and drive meaningful engagement. Winning Best Bidding Strategy at Bizzest 3.0 and securing 2nd place at Hackathon 7.0 strengthened my ability to think strategically under pressure and turn insights into action. I believe marketing is not about selling - it's about solving and connecting. And the brands that understand timing and people are the ones that truly grow.",
+    "location": "Sarkhej, Ahmedabad, Gujarat, India",
+    "email": "ahyangogda123@gmail.com",
+    "phone": "7096727869",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ahyan-gogda-50a01028b"
+      }
+    ]
+  },
+  "experience": [],
+  "achievements": [
+    {
+      "title": "Best Bidding Strategy",
+      "context": "Bizzest 3.0"
+    },
+    {
+      "title": "Winner (2nd Place)",
+      "context": "Hackathon 7.0"
+    },
+    {
+      "title": "Innovation Village Certificate",
+      "context": "Innovation Village"
+    }
+  ],
+  "projects": [
+    {
+      "title": "CampuX.in",
+      "stack": [],
+      "bullets": [
+        "Focused on solving everyday campus problems for students."
+      ],
+      "links": []
+    },
+    {
+      "title": "Ve-Care",
+      "stack": [],
+      "bullets": [
+        "Designed to address a real need we strongly believed in.",
+        "Recognized market readiness and timing, planning to revisit when the market evolves."
+      ],
+      "links": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Core",
+      "items": [
+        "Project Management",
+        "Business Analysis",
+        "Market Research",
+        "Performance Marketing",
+        "Consumer Psychology",
+        "Data-Driven Decision Making"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "LJ University",
+      "degree": "IMBA, Business, Management, Marketing, and Related Support Services",
+      "dates": "January 2023 - April 2028"
+    },
+    {
+      "institution": "Gyanmanjari Vidyapith Mahuva",
+      "degree": "Higher Secondary Certificate, Business/Commerce, General",
+      "dates": "March 2021 - February 2023"
+    },
+    {
+      "institution": "Hanumant High School",
+      "degree": "Secondary School Certificate",
+      "dates": "March 2015 - February 2021"
+    }
+  ],
+  "certifications": [
+    "Sales and CRM Overview",
+    "Excel Skills for Business: Advanced",
+    "Digital Marketing",
+    "Creating Change through Social Entrepreneurship",
+    "Excel Skills for Business: Intermediate I"
+  ],
+  "awards": [
+    "Best Bidding Strategy - Bizzest 3.0",
+    "Winner - Hackathon 7.0",
+    "Innovation Village Certificate"
+  ],
+  "extra": [
+    "Blending Analytical & Creative Thinking",
+    "Leveraging AI Tools to Drive Growth & Engagement"
+  ]
+}
